@@ -10,7 +10,9 @@
 #menu-h ul{
   padding:0 ;
   background-color:#073059;
+  z-index: 1;
   }
+
   #menu-h ul li{
       display: inline;
       position: relative;
